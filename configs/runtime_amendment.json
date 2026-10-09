@@ -1,0 +1,14 @@
+{
+  "date": "2026-10-08",
+  "kind": "numerical runtime repair",
+  "model_keys": [
+    "qwen2_2000",
+    "qwen25_3000"
+  ],
+  "precision": "bfloat16 on accelerator; other models float16",
+  "evidence": "logs/qwen2_2000_float16_numerics.json: source logits NaN; bfloat16 diagnostic finite",
+  "discarded_observations": 156,
+  "archive": "logs/invalid_runs/qwen2_2000_benchmark_fp16_nan.jsonl",
+  "unchanged": "models, revisions, images, prompts, examples, token budget, strict parser, metrics and selection rule",
+  "caveat": "precision differs across families; runtime costs are implementation-dependent; discarded malformed runs are technical failures, not experimental invalid responses"
+}

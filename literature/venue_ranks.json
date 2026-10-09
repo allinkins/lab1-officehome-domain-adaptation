@@ -1,0 +1,12 @@
+{
+  "verified_on": "2026-10-08",
+  "source": "https://portal.core.edu.au/conf-ranks/?by=all&page=1&search=&sort=arank&source=all",
+  "ranking_release": "ICORE2026",
+  "verified_venues": {
+    "CVPR": "A*",
+    "ICML": "A*",
+    "NeurIPS": "A*",
+    "ICLR": "A*"
+  },
+  "scope": "Venue rank in 2026, not a retrospective rating of an individual paper; no rank attributed to workshops or unverified venues."
+}

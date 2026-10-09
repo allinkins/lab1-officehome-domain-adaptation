@@ -1,0 +1,1399 @@
+{
+  "repository": "flwrlabs/office-home",
+  "revision": "d430d44779e929b335be368ab3456484e5de36bb",
+  "streaming": true,
+  "classes": [
+    "Alarm_Clock",
+    "Backpack",
+    "Batteries",
+    "Bed",
+    "Bike",
+    "Bottle",
+    "Bucket",
+    "Calculator",
+    "Calendar",
+    "Candles",
+    "Chair",
+    "Clipboards",
+    "Computer",
+    "Couch",
+    "Curtains",
+    "Desk_Lamp",
+    "Drill",
+    "Eraser",
+    "Exit_Sign",
+    "Fan",
+    "File_Cabinet",
+    "Flipflops",
+    "Flowers",
+    "Folder",
+    "Fork",
+    "Glasses",
+    "Hammer",
+    "Helmet",
+    "Kettle",
+    "Keyboard",
+    "Knives",
+    "Lamp_Shade",
+    "Laptop",
+    "Marker",
+    "Monitor",
+    "Mop",
+    "Mouse",
+    "Mug",
+    "Notebook",
+    "Oven",
+    "Pan",
+    "Paper_Clip",
+    "Pen",
+    "Pencil",
+    "Postit_Notes",
+    "Printer",
+    "Push_Pin",
+    "Radio",
+    "Refrigerator",
+    "Ruler",
+    "Scissors",
+    "Screwdriver",
+    "Shelf",
+    "Sink",
+    "Sneakers",
+    "Soda",
+    "Speaker",
+    "Spoon",
+    "TV",
+    "Table",
+    "Telephone",
+    "ToothBrush",
+    "Toys",
+    "Trash_Can",
+    "Webcam"
+  ],
+  "rows_decoded": 15588,
+  "errors": [],
+  "domain_counts": {
+    "Art": 2427,
+    "Clipart": 4365,
+    "Product": 4439,
+    "Real_World": 4357
+  },
+  "class_domain_counts": [
+    {
+      "domain": "Art",
+      "label": 0,
+      "n": 74
+    },
+    {
+      "domain": "Art",
+      "label": 1,
+      "n": 41
+    },
+    {
+      "domain": "Art",
+      "label": 2,
+      "n": 27
+    },
+    {
+      "domain": "Art",
+      "label": 3,
+      "n": 40
+    },
+    {
+      "domain": "Art",
+      "label": 4,
+      "n": 75
+    },
+    {
+      "domain": "Art",
+      "label": 5,
+      "n": 99
+    },
+    {
+      "domain": "Art",
+      "label": 6,
+      "n": 40
+    },
+    {
+      "domain": "Art",
+      "label": 7,
+      "n": 33
+    },
+    {
+      "domain": "Art",
+      "label": 8,
+      "n": 20
+    },
+    {
+      "domain": "Art",
+      "label": 9,
+      "n": 76
+    },
+    {
+      "domain": "Art",
+      "label": 10,
+      "n": 69
+    },
+    {
+      "domain": "Art",
+      "label": 11,
+      "n": 25
+    },
+    {
+      "domain": "Art",
+      "label": 12,
+      "n": 44
+    },
+    {
+      "domain": "Art",
+      "label": 13,
+      "n": 40
+    },
+    {
+      "domain": "Art",
+      "label": 14,
+      "n": 40
+    },
+    {
+      "domain": "Art",
+      "label": 15,
+      "n": 23
+    },
+    {
+      "domain": "Art",
+      "label": 16,
+      "n": 15
+    },
+    {
+      "domain": "Art",
+      "label": 17,
+      "n": 18
+    },
+    {
+      "domain": "Art",
+      "label": 18,
+      "n": 21
+    },
+    {
+      "domain": "Art",
+      "label": 19,
+      "n": 45
+    },
+    {
+      "domain": "Art",
+      "label": 20,
+      "n": 22
+    },
+    {
+      "domain": "Art",
+      "label": 21,
+      "n": 46
+    },
+    {
+      "domain": "Art",
+      "label": 22,
+      "n": 90
+    },
+    {
+      "domain": "Art",
+      "label": 23,
+      "n": 20
+    },
+    {
+      "domain": "Art",
+      "label": 24,
+      "n": 46
+    },
+    {
+      "domain": "Art",
+      "label": 25,
+      "n": 40
+    },
+    {
+      "domain": "Art",
+      "label": 26,
+      "n": 40
+    },
+    {
+      "domain": "Art",
+      "label": 27,
+      "n": 79
+    },
+    {
+      "domain": "Art",
+      "label": 28,
+      "n": 46
+    },
+    {
+      "domain": "Art",
+      "label": 29,
+      "n": 18
+    },
+    {
+      "domain": "Art",
+      "label": 30,
+      "n": 72
+    },
+    {
+      "domain": "Art",
+      "label": 31,
+      "n": 49
+    },
+    {
+      "domain": "Art",
+      "label": 32,
+      "n": 51
+    },
+    {
+      "domain": "Art",
+      "label": 33,
+      "n": 20
+    },
+    {
+      "domain": "Art",
+      "label": 34,
+      "n": 42
+    },
+    {
+      "domain": "Art",
+      "label": 35,
+      "n": 32
+    },
+    {
+      "domain": "Art",
+      "label": 36,
+      "n": 18
+    },
+    {
+      "domain": "Art",
+      "label": 37,
+      "n": 49
+    },
+    {
+      "domain": "Art",
+      "label": 38,
+      "n": 21
+    },
+    {
+      "domain": "Art",
+      "label": 39,
+      "n": 20
+    },
+    {
+      "domain": "Art",
+      "label": 40,
+      "n": 19
+    },
+    {
+      "domain": "Art",
+      "label": 41,
+      "n": 19
+    },
+    {
+      "domain": "Art",
+      "label": 42,
+      "n": 20
+    },
+    {
+      "domain": "Art",
+      "label": 43,
+      "n": 26
+    },
+    {
+      "domain": "Art",
+      "label": 44,
+      "n": 19
+    },
+    {
+      "domain": "Art",
+      "label": 45,
+      "n": 18
+    },
+    {
+      "domain": "Art",
+      "label": 46,
+      "n": 24
+    },
+    {
+      "domain": "Art",
+      "label": 47,
+      "n": 47
+    },
+    {
+      "domain": "Art",
+      "label": 48,
+      "n": 49
+    },
+    {
+      "domain": "Art",
+      "label": 49,
+      "n": 15
+    },
+    {
+      "domain": "Art",
+      "label": 50,
+      "n": 20
+    },
+    {
+      "domain": "Art",
+      "label": 51,
+      "n": 30
+    },
+    {
+      "domain": "Art",
+      "label": 52,
+      "n": 42
+    },
+    {
+      "domain": "Art",
+      "label": 53,
+      "n": 41
+    },
+    {
+      "domain": "Art",
+      "label": 54,
+      "n": 46
+    },
+    {
+      "domain": "Art",
+      "label": 55,
+      "n": 40
+    },
+    {
+      "domain": "Art",
+      "label": 56,
+      "n": 20
+    },
+    {
+      "domain": "Art",
+      "label": 57,
+      "n": 46
+    },
+    {
+      "domain": "Art",
+      "label": 58,
+      "n": 40
+    },
+    {
+      "domain": "Art",
+      "label": 59,
+      "n": 16
+    },
+    {
+      "domain": "Art",
+      "label": 60,
+      "n": 44
+    },
+    {
+      "domain": "Art",
+      "label": 61,
+      "n": 43
+    },
+    {
+      "domain": "Art",
+      "label": 62,
+      "n": 20
+    },
+    {
+      "domain": "Art",
+      "label": 63,
+      "n": 21
+    },
+    {
+      "domain": "Art",
+      "label": 64,
+      "n": 16
+    },
+    {
+      "domain": "Clipart",
+      "label": 0,
+      "n": 60
+    },
+    {
+      "domain": "Clipart",
+      "label": 1,
+      "n": 56
+    },
+    {
+      "domain": "Clipart",
+      "label": 2,
+      "n": 64
+    },
+    {
+      "domain": "Clipart",
+      "label": 3,
+      "n": 98
+    },
+    {
+      "domain": "Clipart",
+      "label": 4,
+      "n": 99
+    },
+    {
+      "domain": "Clipart",
+      "label": 5,
+      "n": 99
+    },
+    {
+      "domain": "Clipart",
+      "label": 6,
+      "n": 73
+    },
+    {
+      "domain": "Clipart",
+      "label": 7,
+      "n": 46
+    },
+    {
+      "domain": "Clipart",
+      "label": 8,
+      "n": 78
+    },
+    {
+      "domain": "Clipart",
+      "label": 9,
+      "n": 99
+    },
+    {
+      "domain": "Clipart",
+      "label": 10,
+      "n": 99
+    },
+    {
+      "domain": "Clipart",
+      "label": 11,
+      "n": 40
+    },
+    {
+      "domain": "Clipart",
+      "label": 12,
+      "n": 99
+    },
+    {
+      "domain": "Clipart",
+      "label": 13,
+      "n": 64
+    },
+    {
+      "domain": "Clipart",
+      "label": 14,
+      "n": 42
+    },
+    {
+      "domain": "Clipart",
+      "label": 15,
+      "n": 41
+    },
+    {
+      "domain": "Clipart",
+      "label": 16,
+      "n": 48
+    },
+    {
+      "domain": "Clipart",
+      "label": 17,
+      "n": 40
+    },
+    {
+      "domain": "Clipart",
+      "label": 18,
+      "n": 41
+    },
+    {
+      "domain": "Clipart",
+      "label": 19,
+      "n": 50
+    },
+    {
+      "domain": "Clipart",
+      "label": 20,
+      "n": 40
+    },
+    {
+      "domain": "Clipart",
+      "label": 21,
+      "n": 40
+    },
+    {
+      "domain": "Clipart",
+      "label": 22,
+      "n": 99
+    },
+    {
+      "domain": "Clipart",
+      "label": 23,
+      "n": 99
+    },
+    {
+      "domain": "Clipart",
+      "label": 24,
+      "n": 61
+    },
+    {
+      "domain": "Clipart",
+      "label": 25,
+      "n": 52
+    },
+    {
+      "domain": "Clipart",
+      "label": 26,
+      "n": 99
+    },
+    {
+      "domain": "Clipart",
+      "label": 27,
+      "n": 69
+    },
+    {
+      "domain": "Clipart",
+      "label": 28,
+      "n": 40
+    },
+    {
+      "domain": "Clipart",
+      "label": 29,
+      "n": 99
+    },
+    {
+      "domain": "Clipart",
+      "label": 30,
+      "n": 53
+    },
+    {
+      "domain": "Clipart",
+      "label": 31,
+      "n": 40
+    },
+    {
+      "domain": "Clipart",
+      "label": 32,
+      "n": 99
+    },
+    {
+      "domain": "Clipart",
+      "label": 33,
+      "n": 71
+    },
+    {
+      "domain": "Clipart",
+      "label": 34,
+      "n": 99
+    },
+    {
+      "domain": "Clipart",
+      "label": 35,
+      "n": 40
+    },
+    {
+      "domain": "Clipart",
+      "label": 36,
+      "n": 76
+    },
+    {
+      "domain": "Clipart",
+      "label": 37,
+      "n": 99
+    },
+    {
+      "domain": "Clipart",
+      "label": 38,
+      "n": 83
+    },
+    {
+      "domain": "Clipart",
+      "label": 39,
+      "n": 40
+    },
+    {
+      "domain": "Clipart",
+      "label": 40,
+      "n": 51
+    },
+    {
+      "domain": "Clipart",
+      "label": 41,
+      "n": 40
+    },
+    {
+      "domain": "Clipart",
+      "label": 42,
+      "n": 99
+    },
+    {
+      "domain": "Clipart",
+      "label": 43,
+      "n": 99
+    },
+    {
+      "domain": "Clipart",
+      "label": 44,
+      "n": 41
+    },
+    {
+      "domain": "Clipart",
+      "label": 45,
+      "n": 87
+    },
+    {
+      "domain": "Clipart",
+      "label": 46,
+      "n": 40
+    },
+    {
+      "domain": "Clipart",
+      "label": 47,
+      "n": 46
+    },
+    {
+      "domain": "Clipart",
+      "label": 48,
+      "n": 40
+    },
+    {
+      "domain": "Clipart",
+      "label": 49,
+      "n": 67
+    },
+    {
+      "domain": "Clipart",
+      "label": 50,
+      "n": 99
+    },
+    {
+      "domain": "Clipart",
+      "label": 51,
+      "n": 75
+    },
+    {
+      "domain": "Clipart",
+      "label": 52,
+      "n": 42
+    },
+    {
+      "domain": "Clipart",
+      "label": 53,
+      "n": 42
+    },
+    {
+      "domain": "Clipart",
+      "label": 54,
+      "n": 43
+    },
+    {
+      "domain": "Clipart",
+      "label": 55,
+      "n": 61
+    },
+    {
+      "domain": "Clipart",
+      "label": 56,
+      "n": 90
+    },
+    {
+      "domain": "Clipart",
+      "label": 57,
+      "n": 60
+    },
+    {
+      "domain": "Clipart",
+      "label": 58,
+      "n": 99
+    },
+    {
+      "domain": "Clipart",
+      "label": 59,
+      "n": 80
+    },
+    {
+      "domain": "Clipart",
+      "label": 60,
+      "n": 99
+    },
+    {
+      "domain": "Clipart",
+      "label": 61,
+      "n": 39
+    },
+    {
+      "domain": "Clipart",
+      "label": 62,
+      "n": 99
+    },
+    {
+      "domain": "Clipart",
+      "label": 63,
+      "n": 53
+    },
+    {
+      "domain": "Clipart",
+      "label": 64,
+      "n": 40
+    },
+    {
+      "domain": "Product",
+      "label": 0,
+      "n": 79
+    },
+    {
+      "domain": "Product",
+      "label": 1,
+      "n": 99
+    },
+    {
+      "domain": "Product",
+      "label": 2,
+      "n": 62
+    },
+    {
+      "domain": "Product",
+      "label": 3,
+      "n": 43
+    },
+    {
+      "domain": "Product",
+      "label": 4,
+      "n": 44
+    },
+    {
+      "domain": "Product",
+      "label": 5,
+      "n": 62
+    },
+    {
+      "domain": "Product",
+      "label": 6,
+      "n": 47
+    },
+    {
+      "domain": "Product",
+      "label": 7,
+      "n": 81
+    },
+    {
+      "domain": "Product",
+      "label": 8,
+      "n": 81
+    },
+    {
+      "domain": "Product",
+      "label": 9,
+      "n": 56
+    },
+    {
+      "domain": "Product",
+      "label": 10,
+      "n": 99
+    },
+    {
+      "domain": "Product",
+      "label": 11,
+      "n": 65
+    },
+    {
+      "domain": "Product",
+      "label": 12,
+      "n": 96
+    },
+    {
+      "domain": "Product",
+      "label": 13,
+      "n": 88
+    },
+    {
+      "domain": "Product",
+      "label": 14,
+      "n": 75
+    },
+    {
+      "domain": "Product",
+      "label": 15,
+      "n": 83
+    },
+    {
+      "domain": "Product",
+      "label": 16,
+      "n": 67
+    },
+    {
+      "domain": "Product",
+      "label": 17,
+      "n": 41
+    },
+    {
+      "domain": "Product",
+      "label": 18,
+      "n": 67
+    },
+    {
+      "domain": "Product",
+      "label": 19,
+      "n": 58
+    },
+    {
+      "domain": "Product",
+      "label": 20,
+      "n": 71
+    },
+    {
+      "domain": "Product",
+      "label": 21,
+      "n": 99
+    },
+    {
+      "domain": "Product",
+      "label": 22,
+      "n": 91
+    },
+    {
+      "domain": "Product",
+      "label": 23,
+      "n": 90
+    },
+    {
+      "domain": "Product",
+      "label": 24,
+      "n": 41
+    },
+    {
+      "domain": "Product",
+      "label": 25,
+      "n": 67
+    },
+    {
+      "domain": "Product",
+      "label": 26,
+      "n": 57
+    },
+    {
+      "domain": "Product",
+      "label": 27,
+      "n": 90
+    },
+    {
+      "domain": "Product",
+      "label": 28,
+      "n": 72
+    },
+    {
+      "domain": "Product",
+      "label": 29,
+      "n": 99
+    },
+    {
+      "domain": "Product",
+      "label": 30,
+      "n": 41
+    },
+    {
+      "domain": "Product",
+      "label": 31,
+      "n": 54
+    },
+    {
+      "domain": "Product",
+      "label": 32,
+      "n": 99
+    },
+    {
+      "domain": "Product",
+      "label": 33,
+      "n": 56
+    },
+    {
+      "domain": "Product",
+      "label": 34,
+      "n": 98
+    },
+    {
+      "domain": "Product",
+      "label": 35,
+      "n": 72
+    },
+    {
+      "domain": "Product",
+      "label": 36,
+      "n": 96
+    },
+    {
+      "domain": "Product",
+      "label": 37,
+      "n": 41
+    },
+    {
+      "domain": "Product",
+      "label": 38,
+      "n": 93
+    },
+    {
+      "domain": "Product",
+      "label": 39,
+      "n": 68
+    },
+    {
+      "domain": "Product",
+      "label": 40,
+      "n": 70
+    },
+    {
+      "domain": "Product",
+      "label": 41,
+      "n": 47
+    },
+    {
+      "domain": "Product",
+      "label": 42,
+      "n": 60
+    },
+    {
+      "domain": "Product",
+      "label": 43,
+      "n": 40
+    },
+    {
+      "domain": "Product",
+      "label": 44,
+      "n": 38
+    },
+    {
+      "domain": "Product",
+      "label": 45,
+      "n": 99
+    },
+    {
+      "domain": "Product",
+      "label": 46,
+      "n": 43
+    },
+    {
+      "domain": "Product",
+      "label": 47,
+      "n": 43
+    },
+    {
+      "domain": "Product",
+      "label": 48,
+      "n": 59
+    },
+    {
+      "domain": "Product",
+      "label": 49,
+      "n": 58
+    },
+    {
+      "domain": "Product",
+      "label": 50,
+      "n": 99
+    },
+    {
+      "domain": "Product",
+      "label": 51,
+      "n": 40
+    },
+    {
+      "domain": "Product",
+      "label": 52,
+      "n": 49
+    },
+    {
+      "domain": "Product",
+      "label": 53,
+      "n": 46
+    },
+    {
+      "domain": "Product",
+      "label": 54,
+      "n": 99
+    },
+    {
+      "domain": "Product",
+      "label": 55,
+      "n": 43
+    },
+    {
+      "domain": "Product",
+      "label": 56,
+      "n": 99
+    },
+    {
+      "domain": "Product",
+      "label": 57,
+      "n": 47
+    },
+    {
+      "domain": "Product",
+      "label": 58,
+      "n": 76
+    },
+    {
+      "domain": "Product",
+      "label": 59,
+      "n": 60
+    },
+    {
+      "domain": "Product",
+      "label": 60,
+      "n": 58
+    },
+    {
+      "domain": "Product",
+      "label": 61,
+      "n": 42
+    },
+    {
+      "domain": "Product",
+      "label": 62,
+      "n": 45
+    },
+    {
+      "domain": "Product",
+      "label": 63,
+      "n": 93
+    },
+    {
+      "domain": "Product",
+      "label": 64,
+      "n": 98
+    },
+    {
+      "domain": "Real_World",
+      "label": 0,
+      "n": 86
+    },
+    {
+      "domain": "Real_World",
+      "label": 1,
+      "n": 99
+    },
+    {
+      "domain": "Real_World",
+      "label": 2,
+      "n": 64
+    },
+    {
+      "domain": "Real_World",
+      "label": 3,
+      "n": 83
+    },
+    {
+      "domain": "Real_World",
+      "label": 4,
+      "n": 99
+    },
+    {
+      "domain": "Real_World",
+      "label": 5,
+      "n": 78
+    },
+    {
+      "domain": "Real_World",
+      "label": 6,
+      "n": 80
+    },
+    {
+      "domain": "Real_World",
+      "label": 7,
+      "n": 73
+    },
+    {
+      "domain": "Real_World",
+      "label": 8,
+      "n": 68
+    },
+    {
+      "domain": "Real_World",
+      "label": 9,
+      "n": 99
+    },
+    {
+      "domain": "Real_World",
+      "label": 10,
+      "n": 96
+    },
+    {
+      "domain": "Real_World",
+      "label": 11,
+      "n": 65
+    },
+    {
+      "domain": "Real_World",
+      "label": 12,
+      "n": 64
+    },
+    {
+      "domain": "Real_World",
+      "label": 13,
+      "n": 76
+    },
+    {
+      "domain": "Real_World",
+      "label": 14,
+      "n": 73
+    },
+    {
+      "domain": "Real_World",
+      "label": 15,
+      "n": 62
+    },
+    {
+      "domain": "Real_World",
+      "label": 16,
+      "n": 51
+    },
+    {
+      "domain": "Real_World",
+      "label": 17,
+      "n": 43
+    },
+    {
+      "domain": "Real_World",
+      "label": 18,
+      "n": 81
+    },
+    {
+      "domain": "Real_World",
+      "label": 19,
+      "n": 60
+    },
+    {
+      "domain": "Real_World",
+      "label": 20,
+      "n": 58
+    },
+    {
+      "domain": "Real_World",
+      "label": 21,
+      "n": 85
+    },
+    {
+      "domain": "Real_World",
+      "label": 22,
+      "n": 75
+    },
+    {
+      "domain": "Real_World",
+      "label": 23,
+      "n": 57
+    },
+    {
+      "domain": "Real_World",
+      "label": 24,
+      "n": 36
+    },
+    {
+      "domain": "Real_World",
+      "label": 25,
+      "n": 60
+    },
+    {
+      "domain": "Real_World",
+      "label": 26,
+      "n": 52
+    },
+    {
+      "domain": "Real_World",
+      "label": 27,
+      "n": 60
+    },
+    {
+      "domain": "Real_World",
+      "label": 28,
+      "n": 72
+    },
+    {
+      "domain": "Real_World",
+      "label": 29,
+      "n": 75
+    },
+    {
+      "domain": "Real_World",
+      "label": 30,
+      "n": 83
+    },
+    {
+      "domain": "Real_World",
+      "label": 31,
+      "n": 78
+    },
+    {
+      "domain": "Real_World",
+      "label": 32,
+      "n": 67
+    },
+    {
+      "domain": "Real_World",
+      "label": 33,
+      "n": 23
+    },
+    {
+      "domain": "Real_World",
+      "label": 34,
+      "n": 71
+    },
+    {
+      "domain": "Real_World",
+      "label": 35,
+      "n": 46
+    },
+    {
+      "domain": "Real_World",
+      "label": 36,
+      "n": 60
+    },
+    {
+      "domain": "Real_World",
+      "label": 37,
+      "n": 58
+    },
+    {
+      "domain": "Real_World",
+      "label": 38,
+      "n": 68
+    },
+    {
+      "domain": "Real_World",
+      "label": 39,
+      "n": 64
+    },
+    {
+      "domain": "Real_World",
+      "label": 40,
+      "n": 30
+    },
+    {
+      "domain": "Real_World",
+      "label": 41,
+      "n": 68
+    },
+    {
+      "domain": "Real_World",
+      "label": 42,
+      "n": 65
+    },
+    {
+      "domain": "Real_World",
+      "label": 43,
+      "n": 59
+    },
+    {
+      "domain": "Real_World",
+      "label": 44,
+      "n": 67
+    },
+    {
+      "domain": "Real_World",
+      "label": 45,
+      "n": 52
+    },
+    {
+      "domain": "Real_World",
+      "label": 46,
+      "n": 53
+    },
+    {
+      "domain": "Real_World",
+      "label": 47,
+      "n": 66
+    },
+    {
+      "domain": "Real_World",
+      "label": 48,
+      "n": 75
+    },
+    {
+      "domain": "Real_World",
+      "label": 49,
+      "n": 41
+    },
+    {
+      "domain": "Real_World",
+      "label": 50,
+      "n": 77
+    },
+    {
+      "domain": "Real_World",
+      "label": 51,
+      "n": 51
+    },
+    {
+      "domain": "Real_World",
+      "label": 52,
+      "n": 66
+    },
+    {
+      "domain": "Real_World",
+      "label": 53,
+      "n": 77
+    },
+    {
+      "domain": "Real_World",
+      "label": 54,
+      "n": 88
+    },
+    {
+      "domain": "Real_World",
+      "label": 55,
+      "n": 63
+    },
+    {
+      "domain": "Real_World",
+      "label": 56,
+      "n": 81
+    },
+    {
+      "domain": "Real_World",
+      "label": 57,
+      "n": 54
+    },
+    {
+      "domain": "Real_World",
+      "label": 58,
+      "n": 53
+    },
+    {
+      "domain": "Real_World",
+      "label": 59,
+      "n": 59
+    },
+    {
+      "domain": "Real_World",
+      "label": 60,
+      "n": 82
+    },
+    {
+      "domain": "Real_World",
+      "label": 61,
+      "n": 85
+    },
+    {
+      "domain": "Real_World",
+      "label": 62,
+      "n": 67
+    },
+    {
+      "domain": "Real_World",
+      "label": 63,
+      "n": 81
+    },
+    {
+      "domain": "Real_World",
+      "label": 64,
+      "n": 49
+    }
+  ],
+  "exact_duplicate_pairs": 412,
+  "near_duplicate_candidate_pairs": 1041,
+  "conflicting_groups_excluded": 104,
+  "selected_rows": 1235,
+  "split_counts": {
+    "source_train": 520,
+    "validation": 130,
+    "target_adapt": 195,
+    "test": 130,
+    "new_slice": 130,
+    "external": 130
+  },
+  "shortages": [],
+  "elapsed_s": 493.981467962265,
+  "near_duplicate_policy": "pHash Hamming<=4 and aspect ratio within 10%; conservative candidates, not proven duplicates",
+  "license_note": "Original Office-Home Fair Use Notice; academic/non-commercial research",
+  "official_source": "https://www.hemanthdv.org/officeHomeDataset.html"
+}

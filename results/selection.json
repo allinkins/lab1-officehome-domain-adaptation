@@ -1,0 +1,23 @@
+{
+  "n": 65,
+  "accuracy": 0.5076923076923077,
+  "macro_f1": 0.456681749622926,
+  "weighted_f1": 0.456681749622926,
+  "mcc": 0.5170611038262057,
+  "invalid_rate": 0.0,
+  "valid_n": 65,
+  "latency_median_s": 15.003029125000467,
+  "latency_p95_s": 19.40443820839864,
+  "peak_process_rss_gb": 1.092190208,
+  "balanced_accuracy": 0.5076923076923077,
+  "ece": 0.49230769230769234,
+  "binary_brier": 0.49230769230769234,
+  "model": "qwen25_3000",
+  "split": "validation",
+  "mode": "few",
+  "variant": "main",
+  "macro_f1_ci_low": null,
+  "macro_f1_ci_high": null,
+  "selection_score": 0.5005437254793547,
+  "validity_gate_passed": true
+}

@@ -1,0 +1,35 @@
+{
+  "model": "qwen25_3000",
+  "mode": "few",
+  "valid_errors": 112,
+  "confident_wrong_answers": 112,
+  "confidence_threshold": 0.7,
+  "top_confusions": [
+    {
+      "true_class": "Alarm_Clock",
+      "predicted_class": "Pencil",
+      "n": 2
+    },
+    {
+      "true_class": "Backpack",
+      "predicted_class": "Pencil",
+      "n": 2
+    },
+    {
+      "true_class": "Batteries",
+      "predicted_class": "Pencil",
+      "n": 2
+    },
+    {
+      "true_class": "Bike",
+      "predicted_class": "Pencil",
+      "n": 2
+    },
+    {
+      "true_class": "Bottle",
+      "predicted_class": "Pencil",
+      "n": 2
+    }
+  ],
+  "note": "At most two observations per true class; confusion frequencies are exploratory."
+}

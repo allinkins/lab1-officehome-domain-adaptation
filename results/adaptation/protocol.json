@@ -1,0 +1,15 @@
+{
+  "backbone": "torchvision ResNet18 IMAGENET1K_V1 frozen",
+  "feature_standardization": "source_train only",
+  "trainable_head": "512 -> 128 ReLU -> 65",
+  "epochs": 40,
+  "batch_size": 64,
+  "learning_rate": 0.001,
+  "weight_decay": 0.0001,
+  "alignment_weight": 0.1,
+  "pseudo_ce_weight": 0.3,
+  "checkpoint_selection": "source validation Macro-F1",
+  "target_labels_used_for_training": false,
+  "test_images_used_for_adaptation": false,
+  "device": "mps"
+}

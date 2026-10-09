@@ -1,0 +1,73 @@
+{
+  "seed": 20261006,
+  "source_domain": "Product",
+  "target_domain": "Clipart",
+  "new_domain": "Art",
+  "class_count": 65,
+  "max_new_tokens": 40,
+  "few_shot_examples": 3,
+  "generation": {
+    "do_sample": false,
+    "num_beams": 1
+  },
+  "validation_per_class": 1,
+  "test_per_class": 2,
+  "bootstrap_repeats": 2000,
+  "primary_metric": "macro_f1",
+  "selection": {
+    "invalid_rate_max": 0.1,
+    "weights": {
+      "macro_f1": 0.6,
+      "one_minus_ece": 0.2,
+      "valid_rate": 0.1,
+      "speed_score": 0.1
+    },
+    "fallback": "If no model satisfies invalid_rate_max, choose highest penalized score for exploratory application and explicitly label failure of validity gate."
+  },
+  "pseudo_label_confidence_threshold": 0.7,
+  "models": [
+    {
+      "key": "smol256",
+      "repo": "HuggingFaceTB/SmolVLM-256M-Instruct",
+      "family": "SmolVLM",
+      "nominal_b": 0.256
+    },
+    {
+      "key": "smol500",
+      "repo": "HuggingFaceTB/SmolVLM-500M-Instruct",
+      "family": "SmolVLM",
+      "nominal_b": 0.5
+    },
+    {
+      "key": "smol2_500",
+      "repo": "HuggingFaceTB/SmolVLM2-500M-Video-Instruct",
+      "family": "SmolVLM2",
+      "nominal_b": 0.5
+    },
+    {
+      "key": "smol2_2200",
+      "repo": "HuggingFaceTB/SmolVLM2-2.2B-Instruct",
+      "family": "SmolVLM2",
+      "nominal_b": 2.2
+    },
+    {
+      "key": "llava500",
+      "repo": "llava-hf/llava-interleave-qwen-0.5b-hf",
+      "family": "LLaVA Interleave",
+      "nominal_b": 0.5
+    },
+    {
+      "key": "qwen2_2000",
+      "repo": "Qwen/Qwen2-VL-2B-Instruct",
+      "family": "Qwen2-VL",
+      "nominal_b": 2.0
+    },
+    {
+      "key": "qwen25_3000",
+      "repo": "Qwen/Qwen2.5-VL-3B-Instruct",
+      "family": "Qwen2.5-VL",
+      "nominal_b": 3.0
+    }
+  ],
+  "protocol_frozen_at": "2026-10-07 before first benchmark run; only a source-training warmup was inspected"
+}

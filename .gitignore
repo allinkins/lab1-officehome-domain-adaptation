@@ -1,0 +1,26 @@
+.runtime/
+.venv/
+.cache/
+__pycache__/
+*.pyc
+.DS_Store
+data/images/
+data/resnet18_features.npz
+qa/
+logs/*.lock
+*.zip
+logs/
+qa/
+lab1_officehome/
+lab1_officehome 2/
+WORKLOG.md
+ARTIFACT_MANIFEST.json
+configs/lab_requirements_source.txt
+src/prepare_delivery.py
+~$*
+results/raw/*_smoke.json
+results/analysis_complete.json
+results/peft/adapter/*
+!results/peft/adapter/README.md
+!results/peft/adapter/adapter_config.json
+!results/peft/adapter/adapter_model.safetensors

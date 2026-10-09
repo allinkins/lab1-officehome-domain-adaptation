@@ -1,0 +1,77 @@
+[
+  {
+    "id": "R01", "authors": ["Hemanth Venkateswara", "Jose Eusebio", "Shayok Chakraborty"], "more_authors": true,
+    "type": "inproceedings", "container": "Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)", "year": 2017, "pages": "5018–5027", "volume": "", "number": "", "doi": "",
+    "url": "https://openaccess.thecvf.com/content_cvpr_2017/html/Venkateswara_Deep_Hashing_Network_CVPR_2017_paper.html"
+  },
+  {
+    "id": "R02", "authors": ["Mingsheng Long", "Yue Cao", "Jianmin Wang"], "more_authors": true,
+    "type": "inproceedings", "container": "Proceedings of the 32nd International Conference on Machine Learning", "year": 2015, "pages": "97–105", "volume": "37", "number": "", "doi": "",
+    "url": "https://proceedings.mlr.press/v37/long15.html"
+  },
+  {
+    "id": "R03", "authors": ["Yaroslav Ganin", "Evgeniya Ustinova", "Hana Ajakan"], "more_authors": true,
+    "type": "article", "container": "Journal of Machine Learning Research", "year": 2016, "pages": "1–35", "volume": "17", "number": "59", "doi": "",
+    "url": "https://jmlr.org/papers/v17/15-239.html"
+  },
+  {
+    "id": "R04", "authors": ["Baochen Sun", "Kate Saenko"], "more_authors": false,
+    "type": "inproceedings", "container": "Computer Vision – ECCV 2016 Workshops", "year": 2016, "pages": "443–450", "volume": "9915", "number": "", "doi": "10.1007/978-3-319-49409-8_35",
+    "url": "https://arxiv.org/abs/1607.01719"
+  },
+  {
+    "id": "R05", "authors": ["Mingsheng Long", "Zhangjie Cao", "Jianmin Wang"], "more_authors": true,
+    "type": "inproceedings", "container": "Advances in Neural Information Processing Systems", "year": 2018, "pages": "", "volume": "31", "number": "", "doi": "",
+    "url": "https://proceedings.neurips.cc/paper_files/paper/2018/hash/ab88b15733f543179858600245108dd8-Abstract.html"
+  },
+  {
+    "id": "R06", "authors": ["Alec Radford", "Jong Wook Kim", "Chris Hallacy"], "more_authors": true,
+    "type": "inproceedings", "container": "Proceedings of the 38th International Conference on Machine Learning", "year": 2021, "pages": "8748–8763", "volume": "139", "number": "", "doi": "",
+    "url": "https://proceedings.mlr.press/v139/radford21a.html"
+  },
+  {
+    "id": "R07", "authors": ["Zhengfeng Lai", "Haoping Bai", "Haotian Zhang"], "more_authors": true,
+    "type": "inproceedings", "container": "Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)", "year": 2024, "pages": "2691–2701", "volume": "", "number": "", "doi": "",
+    "url": "https://openaccess.thecvf.com/content/WACV2024/html/Lai_Empowering_Unsupervised_Domain_Adaptation_With_Large-Scale_Pre-Trained_Vision-Language_Models_WACV_2024_paper.html"
+  },
+  {
+    "id": "R08", "authors": ["Haotian Liu", "Chunyuan Li", "Qingyang Wu"], "more_authors": true,
+    "type": "inproceedings", "container": "Advances in Neural Information Processing Systems", "year": 2023, "pages": "", "volume": "36", "number": "", "doi": "",
+    "url": "https://proceedings.neurips.cc/paper_files/paper/2023/hash/6dcf277ea32ce3288914faf369fe6de0-Abstract-Conference.html"
+  },
+  {
+    "id": "R09", "authors": ["Andrés Marafioti", "Orr Zohar", "Miquel Farré"], "more_authors": true,
+    "type": "inproceedings", "container": "Conference on Language Modeling (COLM)", "year": 2025, "pages": "", "volume": "", "number": "", "doi": "",
+    "url": "https://arxiv.org/abs/2504.05299", "venue_confirmation": "https://colmweb.org/2025/AcceptedPapers.html"
+  },
+  {
+    "id": "R10", "authors": ["Peng Wang", "Shuai Bai", "Sinan Tan"], "more_authors": true,
+    "type": "misc", "container": "arXiv", "year": 2024, "pages": "", "volume": "", "number": "", "eprint": "2409.12191", "doi": "",
+    "url": "https://arxiv.org/abs/2409.12191"
+  },
+  {
+    "id": "R11", "authors": ["Shuai Bai", "Keqin Chen", "Xuejing Liu"], "more_authors": true,
+    "type": "misc", "container": "arXiv", "year": 2025, "pages": "", "volume": "", "number": "", "eprint": "2502.13923", "doi": "",
+    "url": "https://arxiv.org/abs/2502.13923"
+  },
+  {
+    "id": "R12", "authors": ["Edward J. Hu", "Yelong Shen", "Phillip Wallis"], "more_authors": true,
+    "type": "inproceedings", "container": "International Conference on Learning Representations (ICLR)", "year": 2022, "pages": "", "volume": "", "number": "", "doi": "",
+    "url": "https://openreview.net/forum?id=nZeVKeeFYf9"
+  },
+  {
+    "id": "R13", "authors": ["Chuan Guo", "Geoff Pleiss", "Yu Sun"], "more_authors": true,
+    "type": "inproceedings", "container": "Proceedings of the 34th International Conference on Machine Learning", "year": 2017, "pages": "1321–1330", "volume": "70", "number": "", "doi": "",
+    "url": "https://proceedings.mlr.press/v70/guo17a.html"
+  },
+  {
+    "id": "R14", "authors": ["Dongjie Chen", "Kartik Patwari", "Zhengfeng Lai"], "more_authors": true,
+    "type": "inproceedings", "container": "Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)", "year": 2026, "pages": "4262–4272", "volume": "", "number": "", "doi": "",
+    "url": "https://openaccess.thecvf.com/content/WACV2026/html/Chen_Empowering_Source-Free_Domain_Adaptation_via_MLLM-Guided_Reliability-Based_Curriculum_Learning_WACV_2026_paper.html"
+  },
+  {
+    "id": "R15", "authors": ["Alex Shonenkov", "Andrey Kuznetsov", "Denis Dimitrov"], "more_authors": true,
+    "type": "misc", "container": "arXiv", "year": 2022, "pages": "", "volume": "", "number": "", "eprint": "2202.10784", "doi": "",
+    "url": "https://arxiv.org/abs/2202.10784"
+  }
+]

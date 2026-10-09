@@ -1,0 +1,126 @@
+{
+  "date": "2026-10-07",
+  "method": "Targeted structured search with citation tracing; not an exhaustive systematic review.",
+  "queries": [
+    "(\"Office-Home\" OR \"visual domain adaptation\") AND (\"distribution alignment\" OR MMD OR CORAL OR adversarial)",
+    "(\"vision-language model\" OR \"multimodal language model\") AND (\"domain adaptation\" OR \"pseudo-labeling\")",
+    "(SmolVLM OR Qwen2-VL OR LLaVA) AND (\"few-shot\" OR \"classification\" OR \"efficiency\")",
+    "(\"large language model\" AND \"calibration\") OR \"On Calibration of Modern Neural Networks\"",
+    "ruCLIP Russian contrastive image text model",
+    "\"Empowering Source-Free Domain Adaptation\" \"MLLM\" RCL"
+  ],
+  "sources": [
+    "CVF Open Access",
+    "PMLR",
+    "JMLR",
+    "arXiv",
+    "official author repositories/model cards"
+  ],
+  "inclusion": "Scientific publication/technical report supporting dataset, alignment, multimodal models, prompting, calibration or Russian-language context.",
+  "exclusion": "Secondary summaries; unrelated generation/retrieval papers; duplicate versions of the same work.",
+  "registered_unique_candidates": 16,
+  "included": 15,
+  "excluded": 1,
+  "excluded_records": [
+    {
+      "title": "Language Models are Few-Shot Learners",
+      "authors": "Brown et al.",
+      "year": 2020,
+      "url": "https://arxiv.org/abs/2005.14165",
+      "reason": "General text-LLM background replaced in the 15-work core by the directly relevant RCL 2026 study; few-shot protocol remains unchanged."
+    }
+  ],
+  "not_claimed": "No invented total search-engine hit count or full-text screening count. The flow counts the registered bibliography only.",
+  "records": [
+    {
+      "id": "R01",
+      "decision": "included",
+      "reason": "UDA и введение Office-Home",
+      "url": "https://arxiv.org/abs/1706.07522"
+    },
+    {
+      "id": "R02",
+      "decision": "included",
+      "reason": "Снижение расхождения доменов",
+      "url": "https://proceedings.mlr.press/v37/long15.html"
+    },
+    {
+      "id": "R03",
+      "decision": "included",
+      "reason": "Извлечение признаков, не различающих домены",
+      "url": "https://jmlr.org/papers/v17/15-239.html"
+    },
+    {
+      "id": "R04",
+      "decision": "included",
+      "reason": "Согласование статистик второго порядка",
+      "url": "https://arxiv.org/abs/1607.01719"
+    },
+    {
+      "id": "R05",
+      "decision": "included",
+      "reason": "Условное выравнивание мультимодальных распределений классов",
+      "url": "https://arxiv.org/abs/1705.10667"
+    },
+    {
+      "id": "R06",
+      "decision": "included",
+      "reason": "Перенос визуальных представлений с текстовым описанием классов",
+      "url": "https://proceedings.mlr.press/v139/radford21a.html"
+    },
+    {
+      "id": "R07",
+      "decision": "included",
+      "reason": "Визуально-языковая поддержка UDA",
+      "url": "https://openaccess.thecvf.com/content/WACV2024/html/Lai_Empowering_Unsupervised_Domain_Adaptation_With_Large-Scale_Pre-Trained_Vision-Language_Models_WACV_2024_paper.html"
+    },
+    {
+      "id": "R08",
+      "decision": "included",
+      "reason": "Следование инструкциям по изображению",
+      "url": "https://arxiv.org/abs/2304.08485"
+    },
+    {
+      "id": "R09",
+      "decision": "included",
+      "reason": "Ресурсосберегающие мультимодальные модели",
+      "url": "https://arxiv.org/abs/2504.05299"
+    },
+    {
+      "id": "R10",
+      "decision": "included",
+      "reason": "Понимание изображений разного разрешения",
+      "url": "https://arxiv.org/abs/2409.12191"
+    },
+    {
+      "id": "R11",
+      "decision": "included",
+      "reason": "Развитие визуального понимания и структурированного ответа",
+      "url": "https://arxiv.org/abs/2502.13923"
+    },
+    {
+      "id": "R12",
+      "decision": "included",
+      "reason": "Обучение малого числа параметров",
+      "url": "https://arxiv.org/abs/2106.09685"
+    },
+    {
+      "id": "R13",
+      "decision": "included",
+      "reason": "Соответствие уверенности фактической точности",
+      "url": "https://proceedings.mlr.press/v70/guo17a.html"
+    },
+    {
+      "id": "R14",
+      "decision": "included",
+      "reason": "Надёжные MLLM-псевдометки для source-free адаптации",
+      "url": "https://openaccess.thecvf.com/content/WACV2026/html/Chen_Empowering_Source-Free_Domain_Adaptation_via_MLLM-Guided_Reliability-Based_Curriculum_Learning_WACV_2026_paper.html"
+    },
+    {
+      "id": "R15",
+      "decision": "included",
+      "reason": "Русскоязычное сопоставление изображений и текста",
+      "url": "https://arxiv.org/abs/2202.10784"
+    }
+  ]
+}

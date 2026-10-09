@@ -1,0 +1,37 @@
+{
+  "n_target_adapt": 195,
+  "accepted": 195,
+  "threshold": 0.7,
+  "model": "qwen25_3000",
+  "mode": "few",
+  "accepted_accuracy_for_evaluation_only": 0.13333333333333333,
+  "accepted_correct_for_evaluation_only": 26,
+  "predicted_classes_present": 26,
+  "most_frequent_predictions": [
+    {
+      "label_id": 43,
+      "class": "Pencil",
+      "count": 152
+    },
+    {
+      "label_id": 27,
+      "class": "Helmet",
+      "count": 5
+    },
+    {
+      "label_id": 23,
+      "class": "Folder",
+      "count": 4
+    },
+    {
+      "label_id": 32,
+      "class": "Laptop",
+      "count": 4
+    },
+    {
+      "label_id": 63,
+      "class": "Trash_Can",
+      "count": 3
+    }
+  ]
+}

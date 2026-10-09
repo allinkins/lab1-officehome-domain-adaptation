@@ -1,0 +1,5 @@
+﻿domain,n,classes,class_min,class_max,imbalance_ratio,median_width,median_height,min_width,min_height,max_width,max_height
+Art,2427,65,15,99,6.6,800.0,678.0,85,117,4438,2686
+Clipart,4365,65,39,99,2.5384615384615383,426.0,431.0,18,4,2400,2400
+Product,4439,65,38,99,2.6052631578947367,500.0,500.0,42,42,2560,2560
+Real_World,4357,65,23,99,4.304347826086956,800.0,662.0,80,63,6000,6500

@@ -1,0 +1,29 @@
+[1] Deep Hashing Network for Unsupervised Domain Adaptation / H. Venkateswara, J. Eusebio, S. Chakraborty [et al.] // Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR). — 2017. — P. 5018–5027. — URL: https://openaccess.thecvf.com/content_cvpr_2017/html/Venkateswara_Deep_Hashing_Network_CVPR_2017_paper.html (дата обращения: 09.10.2026). — Текст : электронный.
+
+[2] Learning Transferable Features with Deep Adaptation Networks / M. Long, Y. Cao, J. Wang [et al.] // Proceedings of the 32nd International Conference on Machine Learning. — 2015. — Vol. 37. — P. 97–105. — URL: https://proceedings.mlr.press/v37/long15.html (дата обращения: 09.10.2026). — Текст : электронный.
+
+[3] Domain-Adversarial Training of Neural Networks / Y. Ganin, E. Ustinova, H. Ajakan [et al.] // Journal of Machine Learning Research. — 2016. — Vol. 17. — No. 59. — P. 1–35. — URL: https://jmlr.org/papers/v17/15-239.html (дата обращения: 09.10.2026). — Текст : электронный.
+
+[4] Sun, B. Deep CORAL: Correlation Alignment for Deep Domain Adaptation / B. Sun, K. Saenko // Computer Vision – ECCV 2016 Workshops. — 2016. — Vol. 9915. — P. 443–450. — DOI: 10.1007/978-3-319-49409-8_35. — URL: https://arxiv.org/abs/1607.01719 (дата обращения: 09.10.2026). — Текст : электронный.
+
+[5] Conditional Adversarial Domain Adaptation / M. Long, Z. Cao, J. Wang [et al.] // Advances in Neural Information Processing Systems. — 2018. — Vol. 31. — URL: https://proceedings.neurips.cc/paper_files/paper/2018/hash/ab88b15733f543179858600245108dd8-Abstract.html (дата обращения: 09.10.2026). — Текст : электронный.
+
+[6] Learning Transferable Visual Models From Natural Language Supervision / A. Radford, J. W. Kim, C. Hallacy [et al.] // Proceedings of the 38th International Conference on Machine Learning. — 2021. — Vol. 139. — P. 8748–8763. — URL: https://proceedings.mlr.press/v139/radford21a.html (дата обращения: 09.10.2026). — Текст : электронный.
+
+[7] Empowering Unsupervised Domain Adaptation With Large-Scale Pre-Trained Vision-Language Models / Z. Lai, H. Bai, H. Zhang [et al.] // Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV). — 2024. — P. 2691–2701. — URL: https://openaccess.thecvf.com/content/WACV2024/html/Lai_Empowering_Unsupervised_Domain_Adaptation_With_Large-Scale_Pre-Trained_Vision-Language_Models_WACV_2024_paper.html (дата обращения: 09.10.2026). — Текст : электронный.
+
+[8] Visual Instruction Tuning / H. Liu, C. Li, Q. Wu [et al.] // Advances in Neural Information Processing Systems. — 2023. — Vol. 36. — URL: https://proceedings.neurips.cc/paper_files/paper/2023/hash/6dcf277ea32ce3288914faf369fe6de0-Abstract-Conference.html (дата обращения: 09.10.2026). — Текст : электронный.
+
+[9] SmolVLM: Redefining small and efficient multimodal models / A. Marafioti, O. Zohar, M. Farré [et al.] // Conference on Language Modeling (COLM). — 2025. — URL: https://arxiv.org/abs/2504.05299 (дата обращения: 09.10.2026). — Текст : электронный.
+
+[10] Qwen2-VL: Enhancing Vision-Language Model’s Perception of the World at Any Resolution / P. Wang, S. Bai, S. Tan [et al.] // arXiv. — 2024. — arXiv:2409.12191. — URL: https://arxiv.org/abs/2409.12191 (дата обращения: 09.10.2026). — Текст : электронный.
+
+[11] Qwen2.5-VL Technical Report / S. Bai, K. Chen, X. Liu [et al.] // arXiv. — 2025. — arXiv:2502.13923. — URL: https://arxiv.org/abs/2502.13923 (дата обращения: 09.10.2026). — Текст : электронный.
+
+[12] LoRA: Low-Rank Adaptation of Large Language Models / E. J. Hu, Y. Shen, P. Wallis [et al.] // International Conference on Learning Representations (ICLR). — 2022. — URL: https://openreview.net/forum?id=nZeVKeeFYf9 (дата обращения: 09.10.2026). — Текст : электронный.
+
+[13] On Calibration of Modern Neural Networks / C. Guo, G. Pleiss, Y. Sun [et al.] // Proceedings of the 34th International Conference on Machine Learning. — 2017. — Vol. 70. — P. 1321–1330. — URL: https://proceedings.mlr.press/v70/guo17a.html (дата обращения: 09.10.2026). — Текст : электронный.
+
+[14] Empowering Source-Free Domain Adaptation via MLLM-Guided Reliability-Based Curriculum Learning / D. Chen, K. Patwari, Z. Lai [et al.] // Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV). — 2026. — P. 4262–4272. — URL: https://openaccess.thecvf.com/content/WACV2026/html/Chen_Empowering_Source-Free_Domain_Adaptation_via_MLLM-Guided_Reliability-Based_Curriculum_Learning_WACV_2026_paper.html (дата обращения: 09.10.2026). — Текст : электронный.
+
+[15] RuCLIP — new models and experiments: a technical report / A. Shonenkov, A. Kuznetsov, D. Dimitrov [et al.] // arXiv. — 2022. — arXiv:2202.10784. — URL: https://arxiv.org/abs/2202.10784 (дата обращения: 09.10.2026). — Текст : электронный.

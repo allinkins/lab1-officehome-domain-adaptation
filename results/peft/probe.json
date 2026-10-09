@@ -1,0 +1,8 @@
+{
+  "status": "probe_succeeded",
+  "micro_steps": 8,
+  "seconds": 13.329697249999299,
+  "process_peak_rss_gb": 2.48643584,
+  "device": "mps",
+  "loss": 1.5976239442825317
+}

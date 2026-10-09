@@ -1,0 +1,14 @@
+[
+  {
+    "epoch": 1,
+    "training_ce": 0.5327662623559053,
+    "validation_ce": 0.2576882121654657,
+    "elapsed_seconds": 815.3672572920004
+  },
+  {
+    "epoch": 2,
+    "training_ce": 0.24374946585068336,
+    "validation_ce": 0.2395719234759991,
+    "elapsed_seconds": 1731.763727542002
+  }
+]

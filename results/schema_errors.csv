@@ -1,0 +1,15 @@
+﻿model,mode,n,invalid,markdown_fence,non_object_json,schema_type_or_range,malformed_or_extra_text,invalid_at_token_limit
+smol256,zero,130,130,0,3,72,55,60
+smol256,few,130,130,0,0,129,1,1
+smol500,zero,130,130,0,0,0,130,0
+smol500,few,130,129,0,36,0,93,0
+smol2_500,zero,130,129,0,126,0,3,0
+smol2_500,few,130,130,0,130,0,0,0
+smol2_2200,zero,130,4,0,0,4,0,0
+smol2_2200,few,130,0,0,0,0,0,0
+llava500,zero,130,4,0,0,0,4,4
+llava500,few,130,0,0,0,0,0,0
+qwen2_2000,zero,130,95,95,0,0,0,0
+qwen2_2000,few,130,28,28,0,0,0,1
+qwen25_3000,zero,130,79,76,0,3,0,0
+qwen25_3000,few,130,0,0,0,0,0,0

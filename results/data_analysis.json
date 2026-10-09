@@ -1,0 +1,64 @@
+{
+  "statistics": [
+    {
+      "domain": "Art",
+      "n": 2427,
+      "classes": 65,
+      "class_min": 15,
+      "class_max": 99,
+      "imbalance_ratio": 6.6,
+      "median_width": 800.0,
+      "median_height": 678.0,
+      "min_width": 85,
+      "min_height": 117,
+      "max_width": 4438,
+      "max_height": 2686
+    },
+    {
+      "domain": "Clipart",
+      "n": 4365,
+      "classes": 65,
+      "class_min": 39,
+      "class_max": 99,
+      "imbalance_ratio": 2.5384615384615383,
+      "median_width": 426.0,
+      "median_height": 431.0,
+      "min_width": 18,
+      "min_height": 4,
+      "max_width": 2400,
+      "max_height": 2400
+    },
+    {
+      "domain": "Product",
+      "n": 4439,
+      "classes": 65,
+      "class_min": 38,
+      "class_max": 99,
+      "imbalance_ratio": 2.6052631578947367,
+      "median_width": 500.0,
+      "median_height": 500.0,
+      "min_width": 42,
+      "min_height": 42,
+      "max_width": 2560,
+      "max_height": 2560
+    },
+    {
+      "domain": "Real_World",
+      "n": 4357,
+      "classes": 65,
+      "class_min": 23,
+      "class_max": 99,
+      "imbalance_ratio": 4.304347826086956,
+      "median_width": 800.0,
+      "median_height": 662.0,
+      "min_width": 80,
+      "min_height": 63,
+      "max_width": 6000,
+      "max_height": 6500
+    }
+  ],
+  "no_group_leakage": true,
+  "selected_missing_files": [],
+  "time_structure": "No chronological metadata supplied; no time-based split claimed.",
+  "missing_images": 0
+}
